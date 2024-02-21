@@ -1,0 +1,20 @@
+# ninja log v5
+4	1907	7301490505184846	CMakeFiles/Client.dir/main.cpp.obj	204b70a18b60eb31
+8	2105	7301493283232921	CMakeFiles/Client.dir/UploadCommand/UploadCommand.cpp.obj	7a7db5da07d046b9
+8	449	7294595538301248	CMakeFiles/Client.dir/SocketException.cpp.obj	e7acc4a52bb3ac10
+4	2077	7301493282952876	CMakeFiles/Client.dir/DownloadCommand/DownloadCommand.cpp.obj	2c4a572864064471
+0	137	7297753506533355	build.ninja	a3354b6b28fac022
+19	699	7296010020273475	CMakeFiles/Client.dir/Command/Command.cpp.obj	64b786f323f7b5f4
+2105	2217	7301493284323311	Client.exe	65e7433468655c6f
+5	365	7294722459925764	CMakeFiles/Client.dir/ClientException.cpp.obj	6e9b0206a0080a04
+13	703	7296010020313482	CMakeFiles/Client.dir/ClientException/ClientException.cpp.obj	da01656cd97642d6
+3	2297	7301219283121684	CMakeFiles/Client.dir/Socket/Socket.cpp.obj	b4b1fec4572c545c
+20	656	7300278136218260	CMakeFiles/Client.dir/Exception/SocketException/SocketException.cpp.obj	956e72054409e42a
+28	666	7300278136328299	CMakeFiles/Client.dir/Exception/UploadCommandException/UploadCommandException.cpp.obj	f12ae1c62506e59a
+16	636	7300278135968237	CMakeFiles/Client.dir/Exception/DownloadCommandException/DownloadCommandException.cpp.obj	221f3eef3751a275
+7	663	7300278136298284	CMakeFiles/Client.dir/Exception/ClientException/ClientException.cpp.obj	b7ab8b47ac5d35a2
+3	2066	7301495489744166	CMakeFiles/Client.dir/DownloadCommand/DownloadCommand.cpp.obj	2c4a572864064471
+7	2078	7301495489864202	CMakeFiles/Client.dir/UploadCommand/UploadCommand.cpp.obj	7a7db5da07d046b9
+2078	2197	7301495491004592	Client.exe	65e7433468655c6f
+3	1835	7301501575539626	CMakeFiles/Client.dir/DownloadCommand/DownloadCommand.cpp.obj	2c4a572864064471
+1836	1947	7301501576650291	Client.exe	65e7433468655c6f
